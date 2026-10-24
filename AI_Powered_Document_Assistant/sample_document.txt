@@ -1,0 +1,13 @@
+DEMO KNOWLEDGE BASE: COMMUNITY TECH SUPPORT
+
+Support hours:
+The support team is available Monday to Friday, 9:00 AM to 6:00 PM IST, excluding public holidays.
+
+How to request support:
+Users should email support@example.test with a short description of the problem, the device or application affected, and any error message.
+
+Escalation process:
+If a critical service is unavailable for more than 30 minutes, mark the request as urgent and contact the service coordinator. For non-critical requests, the support team aims to respond within two business days.
+
+Troubleshooting:
+Before submitting a request, restart the affected application and check the network connection. Include the steps already attempted when contacting support.
